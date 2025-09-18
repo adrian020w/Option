@@ -8,7 +8,7 @@ banner() {
     local ip_pub=$(curl -s https://api.ipify.org)
 
     echo -e "\e[1;34m╔════════════════════════════════════════╗\e[0m"
-    echo -e "\e[1;34m║           ( T ) ( O ) ( O ) ( L ) ( S ) V5          ║\e[0m"
+    echo -e "\e[1;34m║           ( T ) ( O ) ( O ) ( L ) ( S )          ║\e[0m"
     echo -e "\e[1;34m╚════════════════════════════════════════╝\e[0m"
     echo ""
     echo -e "\e[1;32mAuthor  : \e[0mLucifer"
